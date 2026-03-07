@@ -19,8 +19,8 @@ This project demonstrates how to implement automatic data refresh in Power BI.
 - Gateway configuration
 
 ## Screenshots
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/ItcProjects-R4/GHR4_DAT2_S1_PROJECT4/blob/main/dashboard.png)
 
-![Scheduled Refresh](screenshots/ScheduledRefresh.png)
+![Scheduled Refresh](https://github.com/ItcProjects-R4/GHR4_DAT2_S1_PROJECT4/blob/main/Scheduled%20Refresh.png)
 
-![Gateway Setup](screenshots/gateway.png)
+![Gateway Setup](https://github.com/ItcProjects-R4/GHR4_DAT2_S1_PROJECT4/blob/main/gateway.png)
