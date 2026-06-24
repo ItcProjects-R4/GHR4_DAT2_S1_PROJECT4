@@ -179,15 +179,19 @@ Highlights:
 └── README.md
 ```
 
----
-
 ## 👨‍💻 Team
 
 Developed as part of the **DEPI Data Analysis Track**.
 
-### Team Leader
+### Team Members
 
-**Amr Tarek**
+| Name | Role |
+|------|------|
+| Amr Tarek | Team Leader |
+| Mahmoud Sallam | Team Member |
+| Mazen Ashraf | Team Member |
+| Samir Mohamed | Team Member |
+| Mohamed Abonar | Team Member |
 
 ---
 
