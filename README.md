@@ -100,7 +100,8 @@ Key Findings:
 - Higher social media usage is associated with lower sleep duration.
 - Many participants reported productivity loss due to excessive social media use.
 
-![Productivity Dashboard](assets/dashboard-analysis.png)
+![Interactive Dashboard](assets/dashboard-insights.png)
+
 
 ---
 
@@ -115,7 +116,7 @@ Interactive page allowing users to filter data by:
 
 Used for deeper exploration and custom analysis.
 
-![Interactive Dashboard](assets/dashboard-insights.png)
+![Productivity Dashboard](assets/dashboard-analysis.png)
 
 ---
 
