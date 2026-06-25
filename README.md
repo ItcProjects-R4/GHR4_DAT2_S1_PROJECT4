@@ -17,6 +17,12 @@ Using survey responses collected from participants, the project analyzes:
 
 ---
 
+## 🎥 Demo Video
+
+https://youtu.be/n_ZqUuxS67M
+
+---
+
 ## 🎯 Project Objectives
 
 - Understand social media usage trends.
