@@ -50,7 +50,8 @@ Key attributes include:
 ## 🛠 Tools & Technologies
 
 - Power BI
-- Excel
+- Google Forms
+- Python & Power Query
 - Data Cleaning & Transformation
 - Data Visualization
 - Statistical Analysis
